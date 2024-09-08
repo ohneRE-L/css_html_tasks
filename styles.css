@@ -11,5 +11,9 @@ h3 {
 }
 
 p {
-	color: orange;
+	color: rgb(0, 0, 0);
+}
+
+h4 {
+    color: #ff5e5e;
 }
