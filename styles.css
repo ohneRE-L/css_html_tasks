@@ -1,9 +1,12 @@
 h1 {
     color: green;
+    text-align: right;
 }
 
 h2 {
     color: blue;
+    text-align: center;
+    width: 300px;
 }
 
 h3 {
@@ -12,8 +15,26 @@ h3 {
 
 p {
 	color: rgb(0, 0, 0);
+    width: 300px;
+    text-align: justify;
 }
 
 h4 {
     color: #ff5e5e;
 }
+
+table {
+    width: 300px;
+}
+
+td {
+	width: 500px;
+	height: 300px;
+    text-align: center;
+}
+
+th {
+    text-align: left;
+}
+
+
