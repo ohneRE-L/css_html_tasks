@@ -9,18 +9,10 @@ h2 {
     width: 300px;
 }
 
-h3 {
-    color: red;
-}
-
 p {
 	color: rgb(0, 0, 0);
     width: 300px;
     text-align: justify;
-}
-
-h4 {
-    color: #ff5e5e;
 }
 
 table {
@@ -36,5 +28,3 @@ td {
 th {
     text-align: left;
 }
-
-
