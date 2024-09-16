@@ -1,0 +1,54 @@
+#task_40 {
+    font-size: 30px;
+    line-height: 1.5; 
+    width: 400px;
+    text-align: justify;
+}
+
+#task_41_1 {
+    font: 13px/20px "Times New Roman";
+}
+
+#task_41_2 {
+    width: 300px;
+    font: bold 40px Arial;
+    color: red;
+}
+
+#task_41_1 {
+
+    font: italic bold 40px/60px Arial;
+    text-indent: 50px;  
+}
+
+#task_42_1 {
+	text-indent: 50px;
+	text-align: justify;
+	width: 400px;  
+}
+
+#task_44_1 {
+	text-decoration: underline;
+}
+
+#task_45_1 {
+	text-decoration: overline;
+    color: red;
+}
+
+#task_46_1 {
+    text-decoration: line-through;
+    color: green;
+}
+
+#task_47_1 {
+    text-decoration: none; 
+}
+#task_47_1_link {
+    color: red;
+}
+
+#task_48_1_h1 {color: blue; text-align: center; font-family: Arial;}
+#task_48_1_h2 {color: green; font-family: Arial;}
+#task_48_1_i {color: green; font-family: Arial;}
+#task_48_1_p {font-family: Arial;}
