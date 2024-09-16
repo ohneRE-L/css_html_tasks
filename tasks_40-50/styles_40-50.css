@@ -44,6 +44,7 @@
 #task_47_1 {
     text-decoration: none; 
 }
+
 #task_47_1_link {
     color: red;
 }
@@ -53,6 +54,142 @@
 #task_48_1_i {color: green; font-family: Arial;}
 #task_48_1_p {font-family: Arial;}
 
-#h2_50, #h3_50, #h1_50 {
+/*Задание 51.1*/
+#h2_51, #h3_51, #h1_51 {
 	text-align: center;
 }
+
+/*Задание 52.1*/
+#h1_52_1, #h2_52_1, #h3_52_1 {
+    text-align: center;
+}
+#h2_52_1 {
+    color: blue;
+}
+#h3_52_1 {
+    font-size: 16px;
+    color: red;
+}
+
+/*Задание 52.2*/
+#h1_52_2, #h2_52_2, #h3_52_2 {
+    text-align: center;
+    color: red;
+}
+#h3_52_2 {
+    font-size: 16px;
+}
+
+/*Задание 53.1*/
+#ul_53_1 i {
+    color: red;
+}
+#p_53_1 i {
+    color: green;
+}
+
+/*Задание 53.2*/
+#p_53_2 b i {
+    color: red;
+}
+
+/*Задание 54.1*/
+#li_54_1 > b {
+    color: red;
+}
+
+/*Задание 55.1*/
+.odd_55_1 {
+    color: red;
+}
+.eve_55_1 {
+    color: green;
+}
+
+/*Задание 55.2*/
+.eee_55_1 {
+    color: red;
+}
+
+/*Задание 56.1*/
+.xxx_56_1 {
+    font-size: 30px;
+}
+
+/*Задание 57.1*/
+.red-div_57_1 {
+    color: red;
+}
+.green-div_57_1 {
+    color: green;
+}
+.blue-div_57_1 {
+    color: blue;
+}
+
+/*Задание 57.2*/
+.red-div_57_2 {
+    color: red;
+}
+.green-div_57_2 {
+    color: green;
+}
+
+/*Задание 58.1*/
+.eee_58_1, .zzz_58_1 {
+    font-family: Arial;
+    line-height: 1.5;
+}
+.eee_58_1 {
+    font-size: 20px;
+}
+.zzz_58_1 {
+    font-size: 30px;
+}
+
+/*Задание 58.2*/
+.eee_58_2, .zzz_58_2, .ggg_58_2 {
+    text-align: center;
+    font-family: Arial;
+}
+.eee_58_2 {
+    font-size: 20px;
+}
+.zzz_58_2 {
+    font-size: 30px;
+}
+.ggg_58_2 {
+    font-size: 35px;
+}
+
+/*Задание 59#1*/
+.header_59_1 {
+    color: red;
+}
+h2.header_59_1 {
+    font-size: 40px;
+}
+h3.header_59_1 {
+    font-size: 30px;
+}
+
+/*Задание 60#1*/
+.eee_60_1 i {
+    color: red;
+}
+
+/*Задание 61#1*/
+.eee_61_1 .bbb_61_1 {
+	color: red;
+}
+
+/*Задание 61#2*/
+.eee_61_2 h2 {
+    color: red;
+}
+
+/*Задание 61#3*/
+.eee_61_3 h2.bbb_61_3 {
+    color: red;
+}
+
