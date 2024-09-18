@@ -204,7 +204,7 @@ h3.header_59_1 {
 }
 
 /*Задание 61#6*/
-.eee_33 .bbb_33 .kkk_33 {
+.eee_61_6 .bbb_61_6 .kkk_61_6 {
     color: red;
 }
 
@@ -216,4 +216,59 @@ p.bbb_62_1 {
 /*Задание 62#2*/
 p .bbb_62_2 {
     color: red;
+}
+
+/*Задание 62#3*/
+.eee_62_3 p.bbb_62_3 {
+    color: red;
+}
+
+/*Задание 62#4*/
+.eee_62_4 p .bbb_62_4 {
+    color: red;
+}
+
+/*Задание 63#1*/
+.success_63_1 {
+    color: green;
+}
+.error_63_1 {
+    color: red;
+}
+.large_63_1 {
+    font-size: 30px;
+}
+.small_63_1 {
+    font-size: 20px;
+}
+
+/*Задание 63#2*/
+.custom_color {
+    color:aqua;
+}
+.custom_size {
+    font-size: xx-large;
+}
+.custom_front {
+    font-family: Segoe UI;
+}
+
+/*Задание 64#1*/
+#elem1 {
+    color: red;
+}
+#elem2 {
+    color: green;
+}
+#elem3 {
+    color: blue;
+}
+
+/*Задание 65#1*/
+#block_65_1 {
+    color: red;
+    font-family: Arial;
+}
+.text_65_1 {
+    font-size: 30px;
 }
