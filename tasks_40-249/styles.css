@@ -519,3 +519,41 @@ p.fff_72_15 {
     color: red;
 }   
 
+/*Задание 77#1*/
+#elem_77_1+li {
+    color: red;
+}
+
+/*Задание 77#2*/
+.elem_77_2+li {
+    color: red;
+}
+
+/*Задание 78#1*/
+#elem_78_1~li {
+    color: red;
+}
+
+/*Задание 79#1*/
+main#main_79_1 * p {
+    color: red;
+}
+
+/*Задание 82#1*/
+a#a_82_1:link {
+	color: blue;
+}
+a#a_82_1:visited {
+	color: green;
+}
+a#a_82_1:hover {
+    color: red;
+	text-decoration: none;
+}
+a#a_82_1:active {
+	color: black;
+}
+
+/*Задание 84#1*/
+a#a_84_1 {color: blue; text-decoration: none;}
+a#a_84_1:hover {color: red; text-decoration: underline;}
