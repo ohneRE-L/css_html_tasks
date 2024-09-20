@@ -372,3 +372,150 @@ h2 .zzz_69_2 {
 #elem_69_10 .bbb_69_10 {
 	color: red;
 }
+
+/*Задание 70#1*/
+#block h1,
+#block h2 {
+    text-align: center;
+}
+
+/*Задание 70#2*/
+#block h1,
+#block h2 {
+    text-align: center;
+}
+#block h1 {
+    font-size: 30px;
+}
+#block h2 {
+    font-size: 20px;
+}
+
+/*Задание 71#1*/
+#block h1,
+#block h2,
+#block h3 {
+    text-align: center;
+}
+#block h2 {
+    color: blue;
+}
+#block h3 {
+    color: red;
+    font-size: 16px;
+}
+
+/*Задание 71#2*/
+#block h1.eee,
+#block h2.zzz {
+    text-align: center;
+}
+#block h1.eee {
+    font-size: 30px;
+}
+#block h2.zzz {
+    font-size: 20px;
+}
+
+/*Задание 71#3*/
+.xxx .kkk,
+.eee h2.zzz,
+#eee h2 {
+    text-align: center;
+}
+
+/*Задание 71#4*/
+.eee h2.zzz,
+.xxx {
+    text-align: center;
+}
+
+/*Задание 72#1*/
+div#div_72_1 p {
+    color: red;
+}
+
+/*Задание 72#2*/
+div#div_72_2 h2 {
+    color: red;
+}
+
+/*Задание 72#3*/
+#block_72_3 p {
+    color: red;
+}
+
+/*Задание 72#4*/
+#block_72_4 h2 {
+    color: red;
+}
+
+/*Задание 72#5*/
+.bbb_72_5 {
+    color: red;
+}
+
+/*Задание 72#6*/
+#block_72_6 .bbb_72_6 {
+    color: red;
+}
+
+/*Задание 72#7*/
+p.bbb_72_7 {
+    color: red;
+}
+
+/*Задание 72#8*/
+h2.bbb_72_8 {
+    color: red;
+}
+
+/*Задание 72#9*/
+#block_72_9 p.bbb_72_9 {
+    color: red;
+}
+
+/*Задание 72#10*/
+.bbb_72_10,
+.xxx_72_10 {
+    color: red;
+}
+
+/*Задание 72#11*/
+p.bbb_72_11,
+h2.xxx_72_11 {
+    color: red;
+}
+
+/*Задание 72#12*/
+#block_72_12 p.bbb_72_12,
+#block_72_12 p.xxx_72_12 {
+    color: red;
+}
+
+/*Задание 72#13*/
+.fff_72_13 {
+    color: red;
+}
+
+/*Задание 72#14*/
+.fff_72_14 p {
+    color: red;
+}
+
+
+/*Задание 72#15*/
+p.fff_72_15 {
+    color: red;
+}
+
+/*Задание 72#16*/
+.fff_72_16 .bbb_72_16 {
+    color: red;
+}
+
+/*Задание 72#17*/
+.fff_72_17 h2.bbb_72_17 {
+    color: red;
+}   
+
