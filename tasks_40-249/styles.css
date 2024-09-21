@@ -684,6 +684,6 @@ li#li_89_2:not(:first-of-type) {
 
 /*Задание 89#3*/
 
-li#li_118:not(:first-of-type, :last-of-type) {
+li#li_89_3:not(:first-of-type, :last-of-type) {
 	color: red;
 }
