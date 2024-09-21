@@ -557,3 +557,133 @@ a#a_82_1:active {
 /*Задание 84#1*/
 a#a_84_1 {color: blue; text-decoration: none;}
 a#a_84_1:hover {color: red; text-decoration: underline;}
+
+/*Задание 85#1*/
+#test_85_1 a#a_85_1 {
+	color: red;
+}
+#test_85_1 a#a_85_1:hover {
+	text-decoration: none;
+}
+
+/*Задание 86#1*/
+a#a_86_1.zzz_86_1 {
+	color: red;
+}
+a#a_86_1.zzz_86_1:hover {
+	text-decoration: none;
+}
+
+/*Задание 86#2*/
+#block_86_2 a#a_86_2.zzz_86_2 {
+	color: red;
+}
+#block_86_2 a#a_86_2.zzz_86_2:hover {
+	text-decoration: none;
+}
+
+/*Задание 86#3*/
+.block_86_3 a#a_86_3.zzz_86_3 {
+	color: red;
+}
+.block_86_3 a#a_86_3.zzz_86_3:hover {
+	text-decoration: none;
+}
+
+/*Задание 87#1*/
+li#li_87_1:first-child {
+	color: red;
+}   
+
+/*Задание 87#2*/
+li#li_87_2:last-child {
+	color: green;
+}
+
+/*Задание 87#3*/
+li#li_87_3:last-child {
+	color: green;
+}
+li#li_87_3:first-child {
+    color: red;
+}
+
+/*Задание 87#4*/
+li#li_87_4:nth-child(3) {
+	color: red;
+}
+
+/*Задание 87#5*/
+li#li_87_5:nth-child(odd) {
+	color: red;
+}
+li#li_87_5:nth-child(even) {
+	color: green;
+}
+
+/*Задание 87#6*/
+li#li_87_6:nth-child(3n) {
+	color: red;
+}
+
+/*Задание 87#7*/
+li#li_87_7:nth-last-child(2) {
+	color: red;
+}
+
+/*Задание 87#8*/
+li#li_87_8:only-child {
+	color: red;
+}
+
+/*Задание 87#9*/
+li#li_87_9:empty {
+	border: 1px solid blue;
+	width: 100px;
+}
+li#li_87_9 {
+	border: 1px solid red;
+	width: 100px;
+}
+li#li_87_9 {
+	margin-bottom: 10px;
+}
+
+/*Задание 88#1*/
+p#p_88_1:first-of-type {
+	color: red;
+}
+h2#h2_88_1:last-of-type {
+	color: green;
+}
+
+/*Задание 88#2*/
+p#p_88_2:nth-of-type(2) {
+	color: red;
+}
+h2#h2_88_2:nth-last-of-type(2) {
+	color: green;
+}
+
+/*Задание 88#3*/
+h2#h2_88_3:only-of-type {
+	color: red;
+}
+
+/*Задание 89#1*/
+
+li#li_89_1:not(li#li_89_1.elem) {
+	color: red;
+}
+
+/*Задание 89#2*/
+
+li#li_89_2:not(:first-of-type) {
+	color: red;
+}
+
+/*Задание 89#3*/
+
+li#li_118:not(:first-of-type, :last-of-type) {
+	color: red;
+}
