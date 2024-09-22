@@ -106,3 +106,88 @@
 	border: 1px solid green;
 	border-radius: 30px;
 }
+
+/*Задание 100#1*/
+#div_100_1 {
+	width: 200px;
+	height: 200px;
+	background-color: #4dee99;
+	border-radius: 30px;
+}
+
+/*Задание 101#1*/
+#div_101_1 {
+	width: 200px;
+	height: 200px;
+	border: 1px solid green;
+	border-radius: 100px;
+}
+
+/*Задание 103#1*/
+#div_103_1 {
+	width: 200px;
+	height: 200px;
+	border: 1px solid green;
+	border-radius: 10px 30px 50px 70px;
+}
+
+/*Задание 104#1*/
+#div_104_1 {
+	width: 200px;
+	height: 200px;
+	border: 1px solid green;
+	border-radius: 10px 30px;
+}
+
+/*Задание 105#1*/
+#div_105_1 {
+	width: 200px;
+	height: 200px;
+	border: 1px solid green;
+	border-radius: 10px 30px 20px;
+}
+
+/*Задание 107#1*/
+#div_107_1 {
+	width: 100px;
+	height: 100px;
+	border: 1px solid green;
+	border-radius: 100px;
+}
+
+/*Задание 108#1*/
+#div_108_1 {
+	background-image: url("bg.png");
+	width: 1720px;
+	height: 300px;
+	border: 1px solid black;
+}
+
+/*Задание 109#1*/
+#div_109_1 {
+	background-repeat: repeat-y;
+	background-image: url("bg.png");
+	width: 500px;
+	height: 500px;
+	border: 1px solid black;
+}
+
+/*Задание 109#2*/
+#div_109_2 {
+	background-repeat: repeat-x;
+	background-image: url("bg.png");
+	width: 500px;
+	height: 500px;
+	border: 1px solid black;
+}
+
+/*Задание 110#1*/
+#div_110_1_1 {
+	background-position: center center;
+	background-image: url("bg.png");
+	background-repeat: no-repeat;
+	background-size: 150px 50px;
+	width: 500px;
+	height: 500px;
+	border: 1px solid black;
+}
