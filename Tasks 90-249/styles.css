@@ -2,7 +2,7 @@
 #p_90_1 {
 	width: 200px;
 	height: 200px;
-	background-color: rgb(63, 119, 172);
+	background-color: #7e89eb;
 }
 
 /*Задание 90#1*/
@@ -12,5 +12,97 @@
 	color: white;
 	background-color: #4dee99;
 	text-align: center;
-	font-size: 30px
+	font-size: 30px;
+}
+
+/*Задание 90#1*/
+#div_92_1 {
+	width: 300px;
+	height: 200px;
+	border-width: 5px;
+	border-style: solid;
+	border-color: blue;
+}
+
+/*Задание 93#1*/
+#div_93_1 {
+	width: 300px;
+	height: 200px;
+	border-width: 5px;
+	border-style: dotted;
+	border-color: red;
+}
+
+/*Задание 94#1*/
+#div_94_1 {
+	width: 300px;
+	height: 200px;
+	border-width: 2px;
+	border-style: dashed;
+	border-color: orange;
+}
+
+/*Задание 96#1*/
+#div_96_1 {
+	width: 300px;
+	height: 200px;
+	border-width: 10px;
+	border-style: double;
+	border-color: blue;
+}
+
+/*Задание 97#1*/
+#div_97_1 {
+	width: 300px;
+	height: 200px;
+	border: 1px solid red;
+}
+
+/*Задание 97#2*/
+#div_97_2 {
+	width: 300px;
+	height: 200px;
+	border: 2px dotted blue;
+}
+
+/*Задание 97#3*/
+#div_97_3 {
+	width: 300px;
+	height: 200px;
+	border: 3px dashed green;
+}
+
+/*Задание 97#4*/
+#div_97_4 {
+	width: 300px;
+	height: 200px;
+	border: 5px double orange;
+}
+
+/*Задание 98#1*/
+#div_98_1 {
+	width: 300px;
+	height: 200px;
+	border-top: 3px solid blue;
+	border-bottom: 3px solid red;
+	border-left: 3px solid orange;
+	border-right: 3px solid green;
+}
+
+/*Задание 98#2*/
+#div_98_2 {
+	width: 300px;
+	height: 200px;
+	border-top: 1px solid blue;
+	border-bottom: 1px solid blue;
+	border-left: 3px solid red;
+	border-right: 3px dotted green;
+}
+
+/*Задание 99#1*/
+#div_99_1 {
+	width: 200px;
+	height: 200px;
+	border: 1px solid green;
+	border-radius: 30px;
 }
