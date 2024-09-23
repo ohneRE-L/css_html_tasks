@@ -428,3 +428,20 @@
 	border: 10px solid green;
 	box-sizing: border-box; 
 }
+
+/*Задание 147#1*/
+#p_147_1 {
+	display: block;
+	width: 100px;
+	height: 100px;
+	border: 1px solid red;
+	margin-bottom: 20px;
+}
+
+/*Задание 147#2*/
+#a_147_2 {
+	display: inline;
+	width: 100px;
+	height: 100px;
+	border: 1px solid red;
+}
