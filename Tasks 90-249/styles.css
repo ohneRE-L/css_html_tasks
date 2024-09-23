@@ -191,3 +191,240 @@
 	height: 500px;
 	border: 1px solid black;
 }
+
+/*Задание 112#1*/
+#ul_112_1 {
+	list-style-type: square;
+}
+
+/*Задание 113#1*/
+#ul_113_1 {
+	list-style-type: circle;
+}
+
+/*Задание 115#1*/
+#ul_115_1 {
+	list-style-type: none;
+}
+
+/*Задание 119#1*/
+#ol_119_1 {
+	list-style-type: lower-alpha;
+}
+
+/*Задание 120#1*/
+#ol_120_1 {
+	list-style-type: upper-alpha;
+}
+
+/*Задание 121#1*/
+#ol_121_1 {
+	list-style-type: lower-greek;
+}
+
+/*Задание 123#1*/
+#elem1_123_1 {
+	width: 400px;
+	border: 1px dashed blue;
+}
+
+#elem2_123_1 {
+	margin: 50px;
+	height: 300px;
+	border: 1px solid orange;
+}
+
+/*Задание 123#1*/
+#elem1_123_2 {
+	width: 400px;
+	border: 1px dashed blue;
+}
+
+#elem2_123_2 {
+	margin: 25px;
+	border: 1px dashed green;
+}
+
+#elem3_123_2 {
+	height: 200px;
+	margin: 25px;
+	border: 1px solid red;
+}
+
+/*Задание 124#1*/
+#parent_124_1 {
+	width: 200px;
+	border: 1px solid red;
+}
+#child_124_1 {
+	margin-top:    50px;
+	margin-right:  50px;
+	margin-bottom: 100px;
+	margin-left:   50px;
+	
+	height: 100px;
+	border: 1px solid green;
+}
+
+/*Задание 124#2*/
+#parent_124_2 {
+	width: 200px;
+	border: 1px solid red;
+}
+#child_124_2 {
+	margin-top:    50px;
+	margin-right:  25px;
+	margin-bottom: 50px;
+	margin-left:   25px;
+	
+	height: 100px;
+	border: 1px solid green;
+}
+
+/*Задание 124#3*/
+#parent_124_3 {
+	width: 200px;
+	border: 1px solid red;
+}
+#child_124_3 {
+	margin-top:    20px;
+	margin-right:  70px;
+	margin-bottom: 20px;
+	margin-left:   70px;
+	
+	height: 100px;
+	border: 1px solid green;
+}
+
+/*Задание 126#1*/
+#parent_126_1 {
+	width: 200px;
+	border: 1px solid orange;
+}
+#child_126_1 {
+	margin: 25px 50px 100px 10px;
+	height: 50px;
+	border: 1px dashed blue;
+}
+
+/*Задание 127#1*/
+#parent_127_1 {
+	width: 200px;
+	border: 1px solid orange;
+}
+#child_127_1 {
+	margin: 100px 50px;
+	height: 50px;
+	border: 1px dashed blue;
+}
+
+/*Задание 127#2*/
+#parent_127_2 {
+	width: 200px;
+	border: 1px solid orange;
+}
+#child_127_2 {
+	margin: 25px 50px;
+	height: 50px;
+	border: 1px dashed blue;
+}
+
+/*Задание 128#1*/
+#parent_128_1 {
+	width: 200px;
+	border: 1px solid orange;
+}
+#child_128_1 {
+	margin: 100px 50px 30px;
+	height: 50px;
+	border: 1px dashed blue;
+}
+
+/*Задание 128#2*/
+#parent_128_2 {
+	width: 400px;
+	border: 1px solid orange;
+}
+#child_128_2 {
+	margin: 30px 100px 50px;
+	height: 50px;
+	border: 1px dashed blue;
+}
+
+/*Задание 129#1*/
+#elem_129_1 {
+	padding: 50px;
+	width: 200px;
+	border: 1px solid red;
+	text-align: justify;
+}
+
+/*Задание 129#2*/
+#elem1_129_2 {
+	width: 500px;
+	padding: 20px;
+	margin-bottom: 30px;
+	border: 1px solid green;
+	text-align: justify;
+}
+
+#elem2_129_2 {
+	width: 300px;
+	padding: 10px;
+	margin-left: 50px;
+	border: 1px solid red;
+	text-align: justify;
+}
+
+/*Задание 130#1*/
+#elem_130_1 {
+	padding-top:    50px;
+	padding-right:  30px;
+	padding-bottom: 100px;
+	padding-left:   30px;
+	width: 200px;
+	border: 1px solid red;
+	text-align: justify;
+}
+
+
+/*Задание 131#1*/
+#elem_131_1 {
+	width: 300px;
+	border: 1px solid red;
+	text-align: justify;
+	padding: 10px 20px 30px 40px;
+}
+
+/*Задание 131#2*/
+#elem_131_2 {
+	width: 300px;
+	border: 1px solid red;
+	text-align: justify;
+	padding: 60px 30px;
+}
+
+/*Задание 131#3*/
+#elem_131_3 {
+	width: 300px;
+	border: 1px solid red;
+	text-align: justify;
+	padding: 10px 20px 40px;
+}
+
+/*Задание 135#1*/
+#div_135_1_1 {
+	width: 100px;
+	height: 100px;
+	background: #f1f1f1;
+	margin-bottom: 20px;
+}
+
+#div_135_1_2 {
+	width: 100px;
+	height: 100px;
+	background: #f1f1f1;
+	padding: 25px; 
+	border: 10px solid green;
+	box-sizing: border-box; 
+}
