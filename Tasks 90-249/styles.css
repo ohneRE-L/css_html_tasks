@@ -445,3 +445,270 @@
 	height: 100px;
 	border: 1px solid red;
 }
+
+/*Задание 152#1*/
+#div_152_1{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    border: 1px solid red;
+    margin-right: 10px;
+}
+
+/*Задание 153#1*/
+#parent_153_1 {
+	border: 1px solid red;
+}
+#elem1_153_1 {
+	height: 100px;
+	width: 100px;
+	border: 1px solid green;
+	margin: 10px auto;
+}
+#elem2_153_1 {
+	height: 100px;
+	width: 200px;
+	border: 1px solid green;
+	margin: 10px auto;
+}
+#elem3_153_1 {
+	height: 100px;
+	width: 300px;
+	border: 1px solid green;
+	margin: 10px auto;
+}
+
+/*Задание 158#1*/
+#div_158_1_1 {
+	text-align: center;
+	padding: 10px 0;
+	border: 1px solid red;
+}
+.a_158_1_2 {
+	border: 1px solid green;
+}
+
+/*Задание 159#1*/
+#div_159_1_1 {
+    text-align: right;
+	padding: 10px 0;
+	border: 1px solid red;
+}
+#a_159_1_2 {
+	border: 1px solid green;
+}
+
+/*Задание 159#2*/
+#div_159_2_1 {
+    text-align: right;
+	padding: 10px 10px;
+	border: 1px solid red;
+}
+#a_159_2_2 {
+	border: 1px solid green;
+}
+
+/*Задание 161#1*/
+#div_161_1_1 {
+	padding: 10px 0;
+	border: 1px solid red;
+    text-align: center;
+}
+#div_161_1_2 {
+    display: inline-block;
+    margin: 0 5px;
+    padding: 10px;
+	border: 1px solid green;
+}
+
+/*Задание 162#1*/
+#div_162_1_1 {
+	text-align: right;
+	padding: 10px 0;
+	border: 1px solid red;
+}
+#div_162_1_2 {
+	display: inline-block;
+	padding: 10px;
+	border: 1px solid green;
+}
+
+/*Задание 162#2*/
+#div_162_2_1 {
+	text-align: right;
+	padding: 10px 5px;
+	border: 1px solid red;
+}
+#div_162_2_2 {
+	display: inline-block;
+	padding: 10px;
+	border: 1px solid green;
+}
+
+/*Задание 162#3*/
+#div_162_3_1 {
+	text-align: right;
+	padding: 10px 0;
+	border: 1px solid red;
+}
+#div_162_3_2 {
+    margin: 0 5px 0 0;
+	display: inline-block;
+	padding: 10px;
+	border: 1px solid green;
+}
+
+/*Задание 162#4*/
+#div_162_4_1 {
+	padding: 10px 0;
+	border: 1px solid red;
+    text-align: right;
+}
+#a_162_4_2 {
+    display: inline-block;
+	width: 100px;
+	padding: 10px;
+	border: 1px solid green;
+}
+
+/*Задание 162#5*/
+#div_162_5_1 {
+	padding: 10px 0;
+	border: 1px solid red;
+    text-align: right;
+}
+#a_162_5_2 {
+    text-align: center;
+    display: inline-block;
+	width: 100px;
+	padding: 10px;
+	border: 1px solid green;
+}
+
+/*Задание 163#1*/
+#div_163_1_1 {
+	display: flex;
+	width: 400px;
+	height: 200px;
+	border: 1px solid red;
+}
+#div_163_1_2 {
+	width: 60px;
+	height: 50px;
+	border: 1px solid green;
+}
+
+/*Задание 164#1*/
+#div_164_1_1 {
+	display: flex;
+	width: 400px;
+	border: 1px solid red;
+}
+#div_164_1_2 {
+	width: 60px;
+	height: 50px;
+	border: 1px solid green;
+}
+
+/*Задание 165#1*/
+#div_165_1_1 {
+	display: flex;
+	border: 1px solid red;
+}
+#div_165_1_2 {
+	width: 60px;
+	height: 50px;
+	border: 1px solid green;
+}
+
+/*Задание 166#1*/
+#div_166_1_1 {
+	display: inline-flex;
+	border: 1px solid red;
+}
+#div_166_1_2 {
+	width: 60px;
+	height: 50px;
+	border: 1px solid green;
+}
+
+/*Задание 167#1*/
+#div_167_1_1 {
+	display: inline-flex;
+    padding: 10px;
+	border: 1px solid red;
+}
+#div_167_1_2 {
+	width: 60px;
+	height: 50px;
+	border: 1px solid green;
+}
+
+/*Задание 168#1*/
+#div_168_1_1 {
+	display: inline-flex;
+    padding: 10px;
+	border: 1px solid red;
+}
+#div_168_1_2 {
+	width: 60px;
+    margin: 10px;
+	height: 50px;
+	border: 1px solid green;
+}
+
+/*Задание 170#1*/
+#div_170_1_1 {
+	display: flex;
+    width: 400px;
+    height: 200px;
+	border: 1px solid red;
+    justify-content: center;
+}
+#div_170_1_2 {
+	width: 60px;
+	height: 50px;
+	border: 1px solid green;
+}
+
+/*Задание 171#1*/
+#div_171_1_1 {
+	display: flex;
+    width: 400px;
+    height: 200px;
+	border: 1px solid red;
+    justify-content: space-between;
+}
+#div_171_1_2 {
+	width: 60px;
+	height: 50px;
+	border: 1px solid green;
+}
+
+/*Задание 172#1*/
+#div_172_1_1 {
+	display: flex;
+    width: 1000px;
+    height: 200px;
+	border: 1px solid red;
+    justify-content: space-around;
+}
+#div_172_1_2 {
+	width: 60px;
+	height: 50px;
+	border: 1px solid green;
+}
+
+/*Задание 173#1*/
+#div_173_1_1 {
+	display: flex;
+    width: 1000px;
+    height: 200px;
+	border: 1px solid red;
+    justify-content: space-evenly;
+}
+#div_173_1_2 {
+	width: 60px;
+	height: 50px;
+	border: 1px solid green;
+}
