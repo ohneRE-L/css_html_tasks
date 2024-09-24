@@ -87,3 +87,33 @@
     left: 100px;
     top: 100px;
 }
+
+/*Задание 175#1*/
+#elem1_175_1 {
+    position: relative;
+	width: 100px;
+	height: 100px;
+	margin-bottom: 20px;
+	background-color: #FF8888;
+}
+
+#elem2_175_1 {
+    position: absolute;
+    left: 45px;
+    top: 80px;
+	width: 100px;
+	height: 100px;
+	margin-bottom: 20px;
+	background-color: #7E89EB;
+}
+
+#elem3_175_1 {
+    left: 75px;
+    top: 80px;
+    position: absolute;
+	width: 100px;
+	height: 100px;
+	margin-bottom: 20px;
+	background-color: #4DEE99;
+}
+
