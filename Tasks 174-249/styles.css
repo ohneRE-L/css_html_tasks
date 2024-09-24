@@ -1,0 +1,89 @@
+#task {
+    margin-left: 250px;
+}
+
+/* Задание 174#1 */
+#elem1_174_1,
+#elem2_174_1, 
+#elem3_174_1 {
+    width: 60px;
+    height: 60px;
+    position: relative;
+}
+#elem1_174_1 {
+    border: 1px solid red;
+}
+#elem2_174_1 {
+    top: 20px;
+    left: 40px;
+    border: 1px solid blue;
+}
+#elem3_174_1 {
+    top: 40px;
+    left: 90px;
+    border: 1px solid green;
+}
+
+/* Задание 174#2 */
+#elem1_174_2, #elem2_174_2, #elem3_174_2 {
+    width: 60px;
+    height: 60px;
+    position: absolute;
+    top: 40px;
+}
+#elem1_174_2 {
+    border: 1px solid red;
+    left: 40px;
+}
+#elem2_174_2 {
+    border: 1px solid blue;
+    left: 110px;
+}
+#elem3_174_2 {
+    border: 1px solid green;
+    left: 180px;
+}
+
+/* Задание 174#3 */
+#elem1_174_3, #elem2_174_3, #elem3_174_3 {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+}
+#elem1_174_3 {
+    border: 1px solid red;
+    left: 40px;
+    top: 40px;
+}
+#elem2_174_3 {
+    border: 1px solid blue;
+    left: 70px;
+    top: 70px;
+}
+#elem3_174_3 {
+    border: 1px solid green;
+    left: 100px;
+    top: 100px;
+}
+
+/* Задание 174#4 */
+#elem1_174_4, #elem2_174_4, #elem3_174_4 {
+    width: 60px;
+    height: 60px;
+    position: absolute;
+}
+#elem1_174_4 {
+    background-color: #FF9999;
+    left: 40px;
+    top: 40px;
+}
+#elem2_174_4 {
+    background-color: #7EA9EB;
+    left: 70px;
+    top: 70px;
+}
+#elem3_174_4 {
+    background-color: #4DEB99;
+    left: 100px;
+    top: 100px;
+}

@@ -688,27 +688,27 @@
 /*Задание 172#1*/
 #div_172_1_1 {
 	display: flex;
-    width: 1000px;
-    height: 200px;
+	justify-content: space-around;
+	width: 900px;
+	height: 200px;
 	border: 1px solid red;
-    justify-content: space-around;
 }
 #div_172_1_2 {
-	width: 60px;
-	height: 50px;
+	width: 120px;
+	height: 60px;
 	border: 1px solid green;
 }
 
 /*Задание 173#1*/
 #div_173_1_1 {
 	display: flex;
-    width: 1000px;
-    height: 200px;
+	justify-content: space-evenly;
+	width: 900px;
+	height: 200px;
 	border: 1px solid red;
-    justify-content: space-evenly;
 }
 #div_173_1_2 {
-	width: 60px;
-	height: 50px;
+	width: 120px;
+	height: 60px;
 	border: 1px solid green;
 }
