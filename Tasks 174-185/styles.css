@@ -338,7 +338,6 @@
 }
 
 /*Задание 182#1*/
-
 #body_182_1 {
     margin: 0;
 }
@@ -360,4 +359,74 @@
     margin: 60px auto;
     padding: 20px;
     border: 1px solid #C4CD14;
+}
+
+/*Задание 184#1*/
+#elem1_184_1, #elem2_184_1, #elem3_184_1 {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+}
+#elem1_184_1 {
+    background-color: #ff8888;
+    left: 30px;
+    top: 30px;
+}
+#elem2_184_1 {
+    background-color: #7e89eb;
+    left: 60px;
+    top: 60px;
+    z-index: 1;
+}
+#elem3_184_1 {
+    background-color: #4dee99;
+    left: 90px;
+    top: 90px;
+}
+
+/*Задание 184#2*/
+#elem1_184_2, #elem2_184_2, #elem3_184_2 {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+}
+#elem1_184_2 {
+    background-color: #ff8888;
+    left: 30px;
+    top: 30px;
+    z-index: 2;
+}
+#elem2_184_2 {
+    background-color: #7e89eb;
+    left: 60px;
+    top: 60px;
+    z-index: 1;
+}
+#elem3_184_2 {
+    background-color: #4dee99;
+    left: 90px;
+    top: 90px;
+}
+
+/*Задание 185#1*/
+#elem1_185_1, #elem2_185_1, #elem3_185_1 {
+    width: 50px;
+    height: 50px;
+    position: absolute;
+}
+#elem1_185_1 {
+    background-color: #ff8888;
+    left: 30px;
+    top: 30px;
+}
+#elem2_185_1 {
+    z-index: -1;
+    background-color: #7e89eb;
+    left: 60px;
+    top: 60px;
+}
+#elem3_185_1 {
+    background-color: #4dee99;
+    left: 90px;
+    top: 90px;
 }
