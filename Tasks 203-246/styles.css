@@ -590,3 +590,26 @@
     height: 60px;
     border: 1px solid green;
 }
+
+/*Задание 216#1*/
+#elem0_216_1 {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    width: 300px;
+    height: 200px;
+    border: 1px solid red;
+}
+.elem1_216_1 {
+    width: 50px;
+    height: 50px;
+    border: 1px solid green;
+}
+
+#elem2_216_1 {
+    width: 50px;
+    height: 50px;
+    order: -1;
+    border: 1px solid red;
+}
