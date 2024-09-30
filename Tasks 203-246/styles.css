@@ -606,10 +606,69 @@
     height: 50px;
     border: 1px solid green;
 }
-
 #elem2_216_1 {
     width: 50px;
     height: 50px;
     order: -1;
     border: 1px solid red;
 }
+
+/*Задание 220#1*/
+#elem0_220_1 {
+    display: grid;
+    grid-template-columns: 100px 100px 100px 100px;
+    border: 2px solid #696989;
+    padding: 10px;
+    width: 400px;
+}
+
+#elem0_220_1 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+    text-align: center;
+}
+
+/*Задание 220#2*/
+#elem0_220_2 {
+    display: grid;
+    grid-template-columns: 200px 200px;
+    border: 2px solid #696989;
+    padding: 10px;
+    width: 400px;
+}
+
+#elem0_220_2 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+    text-align: center;
+}
+
+/*Задание 220#3*/
+#elem0_220_3 {
+    display: grid;
+    grid-template-columns: 150px 150px 150px;
+    border: 2px solid #696989;
+    padding: 10px;
+    width: 450px;
+}
+#elem0_220_3 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+    text-align: center;
+}
+
+/*Задание 220#4*/
+#elem0_220_4 {
+    display: grid;
+    grid-template-columns: 100px 150px 200px;
+    border: 2px solid #696989;
+    padding: 10px;
+    width: 450px;
+}
+
+#elem0_220_4 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+    text-align: center;
+}
+
