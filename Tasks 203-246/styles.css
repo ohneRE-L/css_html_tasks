@@ -745,3 +745,29 @@
     padding: 10px;
     border: 1px solid #696989;
 }
+
+/*Задание 223#1*/
+#elem0_223_1 {
+    display: grid;
+    grid-template-columns: 100px 1fr 1fr; /* Первый столбец 100px, остальные два по 1fr */
+    border: 2px solid #696989;
+    padding: 10px;
+    width: 600px;
+}
+#elem0_223_1 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+}
+
+/*Задание 223#2*/
+#elem0_223_2 {
+    display: grid;
+    grid-template-columns: 100px 1fr 1.5fr 100px; /* Первый и последний столбцы по 100px, второй и третий делят оставшееся пространство */
+    border: 2px solid #696989;
+    padding: 10px;
+    width: 600px;
+}
+#elem0_223_2 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+}
