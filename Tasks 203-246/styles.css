@@ -860,7 +860,7 @@
     border: 1px solid #696989;
 }
 
-/*Задание 226#2*/
+/*Задание 227#2*/
 #elem0_227_1 {
     display: grid;
     grid-template-columns: repeat(auto-fill, 200px);
@@ -873,4 +873,18 @@
     padding: 10px;
     border: 1px solid #696989;
     text-align: center;
+}
+
+/*Задание 228#1*/
+#elem0_228_1 {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+    border: 2px solid #696989;
+    padding: 10px;
+}
+#elem0_228_1 > div {
+    padding: 20px;
+    border: 1px solid #696989;
+    text-align: center;
+    background-color: #f0f0f0;
 }
