@@ -833,3 +833,29 @@
     padding: 10px;
     border: 1px solid #696989;
 }
+
+/*Задание 226#1*/
+#elem0_226_1 {
+    display: grid;
+    grid-template-columns: 200px auto;
+    border: 2px solid #696989;
+    padding: 10px;
+    width: 600px;
+}
+#elem0_226_1 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+}
+
+/*Задание 226#2*/
+#elem0_226_2 {
+    display: grid;
+    grid-template-columns: 100px 150px auto; /* Первый столбец 100px, второй 150px, третий занимает оставшееся место */
+    border: 2px solid #696989;
+    padding: 10px;
+    width: 600px;
+}
+#elem0_226_2 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+}
