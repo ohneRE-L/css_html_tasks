@@ -860,3 +860,17 @@
     border: 1px solid #696989;
 }
 
+/*Задание 226#2*/
+#elem0_227_1 {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, 200px);
+    border: 2px solid #696989;
+    padding: 10px;
+    width: 100%;
+    max-width: 800px;
+}
+#elem0_227_1 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+    text-align: center;
+}
