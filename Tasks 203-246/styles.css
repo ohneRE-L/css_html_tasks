@@ -1011,3 +1011,87 @@
     padding: 10px;
     border: 1px solid #696989;
 }
+
+/*Задание 232#1*/
+#elem0_232_1 {
+    display: grid;
+    padding: 10px;
+    border: 2px solid #696989;
+    height: 300px;
+    width: 400px;
+}
+#elem0_232_1 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+}
+#elem1_232_1 {
+    grid-row: 1 / 2;
+}
+#elem2_232_1 {
+    grid-row: 2 / 3;
+}
+#elem3_232_1 {
+    grid-row: 1 / 2;
+}
+#elem4_232_1 {
+    grid-row: 2 / 4;
+}
+#elem5_232_1 {
+    grid-row: 3 / 4;
+}
+
+/*Задание 232#2*/
+#elem0_232_2 {
+    display: grid;
+    padding: 10px;
+    border: 2px solid #696989;
+    height: 300px;
+    width: 400px;
+}
+#elem0_232_2 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+}
+#elem1_232_2 {
+    grid-row: 1 / 5;
+}
+#elem2_232_2 {
+    grid-row: 1 / 2;
+}
+#elem3_232_2 {
+    grid-row: 2 / 3;
+}
+#elem4_232_2 {
+    grid-row: 3 / 4;
+}
+#elem5_232_2 {
+    grid-row: 4 / 5;
+}
+
+/*Задание 232#3*/
+#elem0_232_3 {
+    display: grid;
+    padding: 10px;
+    border: 2px solid #696989;
+    height: 300px;
+    width: 400px;
+}
+#elem0_232_3 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+}
+#elem1_232_3 {
+    grid-row: 1 / 2;
+}
+#elem2_232_3 {
+    grid-row: 1 / 3;
+}
+#elem3_232_3 {
+    grid-row: 2 / 3;
+}
+#elem4_232_3 {
+    grid-row: 3 / 5;
+}
+#elem5_232_3 {
+    grid-row: 3 / 5;
+}
