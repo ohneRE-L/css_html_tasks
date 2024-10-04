@@ -1360,10 +1360,84 @@
     padding: 10px;
     border: 2px solid #696989;
     width: 600px;
-    height: 200px;
+    height: 250px;
 }
 
 #elem0_237_1 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+}
+
+/*Задание 238#1*/
+#elem0_238_1 {
+    display: grid;
+    gap: 10px;
+    grid-template: 1fr 1fr 1fr / 1fr 1fr 1fr;
+    padding: 10px;
+    border: 2px solid #696989;
+    width: 600px;
+    height: 200px;
+}
+
+#elem0_238_1 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+}
+
+/*Задание 238#2*/
+#elem0_238_2 {
+    display: grid;
+    gap: 5% 10px;
+    grid-template: 1fr 1fr 1fr / 1fr 1fr 1fr;
+    padding: 10px;
+    border: 2px solid #696989;
+    width: 600px;
+    height: 200px;
+}
+
+#elem0_238_2 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+}
+
+/*Задание 239#1*/
+#elem0_239_1 {
+    width: 600px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 10px;
+    border: 2px solid #696989;
+}
+#elem0_239_1 > div {
+    height: 100px;
+    padding: 10px;
+    border: 1px solid #696989;
+}
+
+/*Задание 239#2*/
+#elem0_239_2 {
+    width: 600px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr) 2fr 3fr;
+    grid-gap: 10px;
+    border: 2px solid #696989;
+}
+#elem0_239_2 > div {
+    height: 100px;
+    padding: 10px;
+    border: 1px solid #696989;
+}
+
+/*Задание 239#3*/
+#elem0_239_3 {
+    width: 600px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    grid-gap: 10px;
+    border: 2px solid #696989;
+}
+#elem0_239_3 > div {
+    height: 100px;
     padding: 10px;
     border: 1px solid #696989;
 }
