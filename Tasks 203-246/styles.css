@@ -1336,3 +1336,34 @@
 #elem5_235_3 {
     grid-column: 2 / 5;
 }
+
+/*Задание 236#1*/
+#elem0_236_1 {
+    display: grid;
+    column-gap: 20%;
+    grid-template-columns: repeat(3, 1fr);
+    padding: 10px;
+    border: 2px solid #696989;
+    width: 600px;
+    height: 200px;
+}
+
+#elem0_236_1 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+}
+
+/*Задание 237#1*/
+#elem0_237_1 {
+    display: grid;
+    row-gap: 25%;
+    padding: 10px;
+    border: 2px solid #696989;
+    width: 600px;
+    height: 200px;
+}
+
+#elem0_237_1 > div {
+    padding: 10px;
+    border: 1px solid #696989;
+}
